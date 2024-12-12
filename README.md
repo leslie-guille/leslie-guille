@@ -12,9 +12,6 @@
 ¡Hola! 👋 Bienvenido a mi espacio. Soy Leslie Guillermo, una apasionada por el marketing digital, el desarrollo web y la enseñanza. Me encanta combinar mi experiencia técnica y estratégica para ayudar a personas y empresas a alcanzar sus objetivos.
 
 ---
-## 🌱 En constante aprendizaje
-
-Siempre estoy explorando nuevas tecnologías, aprendiendo herramientas y desarrollando proyectos que mezclen creatividad y funcionalidad.
 
 ## 🚀 Intereses y Especialización
 
